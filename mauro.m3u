@@ -1,9 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zOiOeqG.png" group-title="Gratis",shortgod.com
-http://shortgod.com/canaldisponible.mp4
 
-#EXTINF:-1,DEP HD: TN (ARG)
-https://tn.com.ar/envivo/24hs/
+#EXTINF:-1,DEP HD: ESPN 1 (ARG)
+http://flash.shortgod.com/kickplus/tv1.php?id=16
 #EXTINF:-1,DEP HD: ESPN 2 (ARG)
 http://flash.shortgod.com/kickplus/tv1.php?id=19
 #EXTINF:-1,DEP HD: ESPN 3 (ARG)
@@ -152,16 +150,6 @@ http://flash.shortgod.com/kickplus/tv1.php?id=400
 http://flash.shortgod.com/kickplus/tv1.php?id=402
 #EXTINF:-1,DLAT | TUDNXTRA 11
 http://flash.shortgod.com/kickplus/tv1.php?id=429
-#EXTINF:-1,ESPAÃ‘A FHD | DAZN LA LIGA
-http://flash.shortgod.com/kickplus/tv1.php?id=444
-#EXTINF:-1,ALQUILER 1 por M+ FHD
-http://flash.shortgod.com/kickplus/tv1.php?id=469
-#EXTINF:-1,ALQUILER 4 por M+ FHD
-http://flash.shortgod.com/kickplus/tv1.php?id=472
-#EXTINF:-1,ALQUILER 5 por M+ FHD
-http://flash.shortgod.com/kickplus/tv1.php?id=473
-#EXTINF:-1,ALQUILER 6 por M+ FHD
-http://flash.shortgod.com/kickplus/tv1.php?id=474
 #EXTINF:-1,PPV - CINEMA 01 FHD (ES)
 http://flash.shortgod.com/kickplus/tv1.php?id=586
 #EXTINF:-1,PPV - CINEMA 05 FHD (ES).
@@ -196,8 +184,6 @@ http://flash.shortgod.com/kickplus/tv1.php?id=614
 http://flash.shortgod.com/kickplus/tv1.php?id=616
 #EXTINF:-1,CUL | HISTORY SUR 2 V*
 http://flash.shortgod.com/kickplus/tv1.php?id=617
-#EXTINF:-1,CUL | NATGEO V*
-http://flash.shortgod.com/kickplus/tv1.php?id=618
 #EXTINF:-1,CUL | ANIMAL PLANET V*
 http://flash.shortgod.com/kickplus/tv1.php?id=619
 #EXTINF:-1,DLAT | TNT SPORTS ARG
@@ -330,10 +316,6 @@ http://flash.shortgod.com/kickplus/tv1.php?id=738
 http://flash.shortgod.com/kickplus/tv1.php?id=739
 #EXTINF:-1,71 | DHE | HD
 http://flash.shortgod.com/kickplus/tv1.php?id=740
-#EXTINF:-1,VIX+
-http://flash.shortgod.com/kickplus/tv1.php?id=762
-#EXTINF:-1,VIX+ 3
-http://flash.shortgod.com/kickplus/tv1.php?id=764
 #EXTINF:-1,Bandamax Vix+
 http://flash.shortgod.com/kickplus/tv1.php?id=769
 #EXTINF:-1,Cine 1
@@ -342,8 +324,6 @@ http://flash.shortgod.com/kickplus/tv1.php?id=771
 http://flash.shortgod.com/kickplus/tv1.php?id=772
 #EXTINF:-1,Cine 3
 http://flash.shortgod.com/kickplus/tv1.php?id=773
-#EXTINF:-1, ECDF  El Canal Del Futbol
-http://flash.shortgod.com/kickplus/tv1.php?id=774
 #EXTINF:-1,Cine Club
 http://flash.shortgod.com/kickplus/tv1.php?id=775
 #EXTINF:-1,Cine Del Ayer
@@ -358,10 +338,6 @@ http://flash.shortgod.com/kickplus/tv1.php?id=1128
 http://flash.shortgod.com/kickplus/tv1.php?id=1130
 #EXTINF:-1,TVN
 http://flash.shortgod.com/kickplus/tv1.php?id=1131
-#EXTINF:-1,CDO Basico
-http://flash.shortgod.com/kickplus/tv1.php?id=1132
-#EXTINF:-1,CDO Premium
-http://flash.shortgod.com/kickplus/tv1.php?id=1133
 #EXTINF:-1,SD | AZ CINEMA
 http://flash.shortgod.com/kickplus/tv1.php?id=1559
 #EXTINF:-1,SD | FX
@@ -386,10 +362,6 @@ http://flash.shortgod.com/kickplus/tv1.php?id=1570
 http://flash.shortgod.com/kickplus/tv1.php?id=1571
 #EXTINF:-1,24/7 | El Chavo del 8
 http://flash.shortgod.com/kickplus/tv1.php?id=2045
-#EXTINF:-1,24/7 | El Pajaro Loco
-http://flash.shortgod.com/kickplus/tv1.php?id=2046
-#EXTINF:-1,24/7 ||| Futurama
-http://flash.shortgod.com/kickplus/tv1.php?id=2048
 #EXTINF:-1,24/7 | Los Simpson ( Temp 1 )
 http://flash.shortgod.com/kickplus/tv1.php?id=2064
 #EXTINF:-1,24/7 | Los Simpson ( Temp 2 )
@@ -412,7 +384,6 @@ http://flash.shortgod.com/kickplus/tv1.php?id=2175
 http://flash.shortgod.com/kickplus/tv1.php?id=4221
 #EXTINF:-1,CO: RCN Telenovelas HD
 http://flash.shortgod.com/kickplus/tv1.php?id=4222
-
 #EXTINF:-1,UY: Canal 10 SAETA
 http://flash.shortgod.com/kickplus/tv1.php?id=4308
 #EXTINF:-1,UY: VTV
@@ -447,20 +418,6 @@ http://flash.shortgod.com/kickplus/tv1.php?id=4887
 http://flash.shortgod.com/kickplus/tv1.php?id=4090
 #EXTINF:-1,||ES|| TAQUILLA 8
 http://flash.shortgod.com/kickplus/tv1.php?id=4096
-#EXTINF:-1,PE: America TV
-http://flash.shortgod.com/kickplus/tv1.php?id=5176
-#EXTINF:-1,24/7 | Cine Accion
-http://flash.shortgod.com/kickplus/tv1.php?id=8434
-#EXTINF:-1,24/7 | Cine Accion HD
-http://flash.shortgod.com/kickplus/tv1.php?id=8435
-#EXTINF:-1,24/7 |Cine Accion 3
-http://flash.shortgod.com/kickplus/tv1.php?id=8436
-#EXTINF:-1,24/7 |Cine Comedia 1
-http://flash.shortgod.com/kickplus/tv1.php?id=8438
-#EXTINF:-1,24/7  | Cine Latino
-http://flash.shortgod.com/kickplus/tv1.php?id=8446
-#EXTINF:-1,24/7 | Cine Romance
-http://flash.shortgod.com/kickplus/tv1.php?id=8447
 #EXTINF:-1,BL | Bolivia TV
 http://flash.shortgod.com/kickplus/tv1.php?id=8543
 #EXTINF:-1,BL |  ATB
@@ -481,11 +438,59 @@ http://flash.shortgod.com/kickplus/tv1.php?id=8581
 http://flash.shortgod.com/kickplus/tv1.php?id=8582
 #EXTINF:-1,Promar TV
 http://flash.shortgod.com/kickplus/tv1.php?id=8583
-#EXTINF:-1,TELESUR I VE
-http://flash.shortgod.com/kickplus/tv1.php?id=8584
-#EXTINF:-1,Telesur | VE
-http://flash.shortgod.com/kickplus/tv1.php?id=8585
 #EXTINF:-1,TVS Maracay | VE
 http://flash.shortgod.com/kickplus/tv1.php?id=8587
 #EXTINF:-1,Urban TV | ES
 http://flash.shortgod.com/kickplus/tv1.php?id=8588
+#EXTINF:-1,TELEFE HD
+http://test_deportv-lh.akamaihd.net/i/TelefeHD_1@7273/index_1_av-p.m3u8
+#EXTINF:-1,EL TRECE HD
+rtsp://stream.eltrecetv.com.ar/live13/13tv/13tv1
+#EXTINF:-1,CANAL 9 HD
+rtmp://sl100tb.cxnlive.com/live/canal9.stream
+#EXTINF:-1,TV PUBLICA HD
+rtmp://sl100tb.cxnlive.com/live/tvpublica.stream
+#EXTINF:-1,TyC Sports HD
+rtmp://sl100tb.cxnlive.com/live/tyc.stream
+#EXTINF:-1,TN HD
+rtsp://stream.tn.com.ar/live/tnhd1
+#EXTINF:-1,C5N
+http://c5n.stweb.tv:1935/c5n/live_media/playlist.m3u8
+#EXTINF:-1,Canal 26 HD
+rtsp://live-edge01.telecentro.net.ar:80/live/26hd-720
+#EXTINF:-1,ESPN +
+http://www.ienlace-tv.com:1935/live7/livestream1.sdp/playlist.m3u8
+#EXTINF:-1,Magazine TV
+rtsp://stream.mgzn.tv/live/mgzntv/mgzntv
+#EXTINF:-1,History
+http://www.ienlace-tv.com:1935/live10/livestream1.sdp/playlist.m3u8
+#EXTINF:-1,Q Musica
+mms://streamqm.uigc.net/qmusica
+#EXTINF:-1,Deportv HD
+rtmp://sl100tb.cxnlive.com/live/deportv.stream
+#EXTINF:-1,America TV
+rtmp://wdc.cxnlive.com/live/americasd.stream
+#EXTINF:-1,NATGEO HD
+http://ilg.club/streamlink.m3u8?channel_id=7ad09373f65c48d5bb6aa6c3b2ca519a&bitrate=800
+#EXTINF:-1,NATGEO WILD HD
+http://ilg.club/streamlink.m3u8?channel_id=607fa33938bc4a3ea6c43ce47ddb8ed8&bitrate=800
+#EXTINF:-1,FX HD
+http://ilg.club/streamlink.m3u8?channel_id=2e0e4b05aa6e428593f3b45b710045b7&bitrate=800
+#EXTINF:-1,STAR WORLD HD
+http://ilg.club/streamlink.m3u8?channel_id=65f7358b813048a0898f5677e1793cf9&bitrate=800
+#EXTINF:-1,NAT GEO MUSIC HD
+http://ilg.club/streamlink.m3u8?channel_id=69c2eab6794344619a049c5dea60ca22&bitrate=800
+#EXTINF:-1,SYFY HD
+http://ilg.club/streamlink.m3u8?channel_id=71f197de056e499a85265c03b44bdab1&bitrate=800
+#EXTINF:-1,COMEDY CENTRAL HD
+http://ilg.club/streamlink.m3u8?channel_id=2f18d4ba25224edaa8bb9aac94b00d4f&bitrate=800
+#EXTINF:-1,FOX SPORTS
+rtmp://wdc.cxnlive.com/live/foxsd.stream
+#EXTINF:-1,ESPN
+rtmp://wdc.cxnlive.com/live/espn.stream
+#EXTINF:-1,CRONICA TV
+rtmp://wdc.cxnlive.com/live/cronica.stream
+#EXTINF:-1,TELESUR
+http://cdn2.telesur.ultrabase.net/livecf/telesurLive/master.m3u8
+#EXTINF:-1,TELEMAX
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
