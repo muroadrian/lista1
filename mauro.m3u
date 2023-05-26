@@ -2,53 +2,53 @@
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zOiOeqG.png" group-title="Gratis",shortgod.com
 http://shortgod.com/canaldisponible.mp4
 
-#EXTINF:-1,ARGENTINA HD| AMERICA Tucuman
+#EXTINF:-1,AMERICA Tucuman
 https://ythls.onrender.com/channel/UCZ8sgVyD7HqDor8ujB-TZpg.m3u8
-#EXTINF:-1,ARGENTINA HD || TELEFE
+#EXTINF:-1,TELEFE
 http://flash.shortgod.com/kickplus/tv1.php?id=2165
-#EXTINF:-1,ARGENTINA HD| Canal 13
+#EXTINF:-1,EL TRECE
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
-#EXTINF:-1,ARGENTINA HD| Canal 9
+#EXTINF:-1, Canal 9
 https://octubre-live.cdn.vustreams.com/live/channel09/live.isml/live.m3u8
-#EXTINF:-1,HD| TV PUBLICA
+#EXTINF:-1, TV PUBLICA
 http://flash.shortgod.com/kickplus/tv1.php?id=2171
-#EXTINF:-1,ARGENTINA HD| A24
+#EXTINF:-1, A24
 https://ythls.onrender.com/channel/UCR9120YBAqMfntqgRTKmkjQ.m3u8
-#EXTINF:-1,ARGENTINA HD| LN+
+#EXTINF:-1, LN+
 https://ythls.onrender.com/channel/UCba3hpU7EFBSk817y9qZkiA.m3u8
-#EXTINF:-1,HD| TN
+#EXTINF:-1, TN
 https://live-01-01-tn.vodgc.net/TN24/index.m3u8
-#EXTINF:-1,HD| AR TYC SPORTS
+#EXTINF:-1, TYC SPORTS
 http://flash.shortgod.com/kickplus/tv1.php?id=2172
-#EXTINF:-1,ARGENTINA FHD| CANAL 26
+#EXTINF:-1, CANAL 26
 http://flash.shortgod.com/kickplus/tv1.php?id=2174
-#EXTINF:-1,HD ||| RURAL
+#EXTINF:-1, RURAL
 http://flash.shortgod.com/kickplus/tv1.php?id=2175
-#EXTINF:-1,HD | Encuentro
+#EXTINF:-1,Encuentro
 https://538d0bde28ccf.streamlock.net/live-cont.ar/encuentro/.m3u8
-#EXTINF:-1,HD| VIAJAR
+#EXTINF:-1, VIAJAR
 https://stmv5.livecastv.com/manualtman/manualtman/playlist.m3u8
-#EXTINF:-1,ARGENTINA HD || Canal 2 Jujuy
+#EXTINF:-1 Canal 2 Jujuy
 https://api.new.livestream.com/accounts/679322/events/3782013/live.m3u8
-#EXTINF:-1,ARGENTINA HD || Canal 3 Pinamar
+#EXTINF:-1, Canal 3 Pinamar
 https://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8
-#EXTINF:-1,ARGENTINA HD || Canal 4 Jujuy
+#EXTINF:-1, Canal 4 Jujuy
 http://190.52.32.13:1935/canal4/smil:manifest.smil/playlist.m3u8
-#EXTINF:-1,ARGENTINA HD || Canal 6 Moreno
+#EXTINF:-1, Canal 6 Moreno
 https://stream.arcast.com.ar/canal6moreno/canal6moreno/playlist.m3u8
-#EXTINF:-1,ARGENTINA HD || CincoTV
+#EXTINF:-1, CincoTV
 https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8
-#EXTINF:-1,ARGENTINA HD| Canal 8 MDP
+#EXTINF:-1, Canal 8 MDP
 https://stream.arcast.com.ar/c8mdp/ngrp:c8mdp_all/playlist.m3u8
-#EXTINF:-1,ARGENTINA HD| Canal 11 De La Costa
+#EXTINF:-1, Canal 11 De La Costa
 https://vivo.solumedia.com:19360/dadaproductora/dadaproductora.m3u8
-#EXTINF:-1,ARGENTINA HD| El 7 MDZ
+#EXTINF:-1, El 7 MDZ
 https://ythls.onrender.com/channel/UC64ZNqX0FQHabP8iIkmnR3A.m3u8
-#EXTINF:-1,ARGENTINA HD| EL DOCE
+#EXTINF:-1,EL DOCE
 https://ythls.onrender.com/channel/UCiaePeoCqpU8hBHiNrgkzrA.m3u8
-#EXTINF:-1,ARGENTINA HD| TELEARUBA
+#EXTINF:-1, TELEARUBA
 https://backend-server-dot-telearuba-app.appspot.com/media/livestream13/playlist.m3u8
-#EXTINF:-1,Canal 13 | OPC 2
+#EXTINF:-1,Canal 13 CH
 http://flash.shortgod.com/kickplus/tv1.php?id=1126
 #EXTINF:-1,Chilevision
 http://flash.shortgod.com/kickplus/tv1.php?id=1127
@@ -60,7 +60,7 @@ http://flash.shortgod.com/kickplus/tv1.php?id=1130
 https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
 #EXTINF:-1,LA RED
 https://unlimited1-cl-isp.dps.live/lared/lared.smil/playlist.m3u8
-#EXTINF:-1,TV MOLINA
+#EXTINF:-1, MOLINA TV
 http://live.mundogo.cl/mundo/Molinatv/index.m3u8
 #EXTINF:-1,RETROPLUS 1
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/retroplustv/playlist.m3u8
