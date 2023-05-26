@@ -2,6 +2,18 @@
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zOiOeqG.png" group-title="Gratis",shortgod.com
 http://shortgod.com/canaldisponible.mp4
 
+#EXTINF:-1,ARGENTINA HD || TELEFE
+http://flash.shortgod.com/kickplus/tv1.php?id=2165
+#EXTINF:-1,HD| TV PUBLICA
+http://flash.shortgod.com/kickplus/tv1.php?id=2171
+#EXTINF:-1,ARGENTINA HD| TYC SPORTS
+http://flash.shortgod.com/kickplus/tv1.php?id=2172
+#EXTINF:-1,ARGENTINA FHD| CANAL 26
+http://flash.shortgod.com/kickplus/tv1.php?id=2174
+#EXTINF:-1,HD ||| RURAL
+http://flash.shortgod.com/kickplus/tv1.php?id=2175
+#EXTINF:-1,TN | AR
+https://live-01-01-tn.vodgc.net/TN24/index.m3u8
 #EXTINF:-1,DEP HD: ESPN 1 (ARG)
 http://flash.shortgod.com/kickplus/tv1.php?id=16
 #EXTINF:-1,DEP HD: ESPN 2 (ARG)
@@ -28,8 +40,6 @@ http://flash.shortgod.com/kickplus/tv1.php?id=39
 http://flash.shortgod.com/kickplus/tv1.php?id=40
 #EXTINF:-1,US: ESPN 3
 http://flash.shortgod.com/kickplus/tv1.php?id=44
-#EXTINF:-1,US: ESPN DEPORTES
-http://flash.shortgod.com/kickplus/tv1.php?id=45
 #EXTINF:-1,DEP HD: FOX SPORTS 1 (ARG)
 http://flash.shortgod.com/kickplus/tv1.php?id=50
 #EXTINF:-1,DEP HD: FOX SPORTS 1 (CHI)
@@ -220,15 +230,11 @@ http://flash.shortgod.com/kickplus/tv1.php?id=678
 http://flash.shortgod.com/kickplus/tv1.php?id=679
 #EXTINF:-1,03 | A&E | FHD
 http://flash.shortgod.com/kickplus/tv1.php?id=680
-#EXTINF:-1,04 | A&E | HD
-http://flash.shortgod.com/kickplus/tv1.php?id=681
 #EXTINF:-1,05 | AMC | SD
 http://flash.shortgod.com/kickplus/tv1.php?id=682
 #EXTINF:-1,06 | AMC | FHD Dual
 http://flash.shortgod.com/kickplus/tv1.php?id=683
 #EXTINF:-1,07 | AMC | HD
-http://flash.shortgod.com/kickplus/tv1.php?id=684
-#EXTINF:-1,08 | AMC | FHD
 http://flash.shortgod.com/kickplus/tv1.php?id=685
 #EXTINF:-1,17 | CANAL WARNER | SD
 http://flash.shortgod.com/kickplus/tv1.php?id=686
@@ -284,8 +290,6 @@ http://flash.shortgod.com/kickplus/tv1.php?id=718
 http://flash.shortgod.com/kickplus/tv1.php?id=719
 #EXTINF:-1,51 | TNT | FHD
 http://flash.shortgod.com/kickplus/tv1.php?id=720
-#EXTINF:-1,52 | TNT | FHD Dual
-http://flash.shortgod.com/kickplus/tv1.php?id=721
 #EXTINF:-1,53 | DE PELICULA + | HQ SAT
 http://flash.shortgod.com/kickplus/tv1.php?id=722
 #EXTINF:-1,54 | CANAL SONY | SD
@@ -320,16 +324,6 @@ http://flash.shortgod.com/kickplus/tv1.php?id=739
 http://flash.shortgod.com/kickplus/tv1.php?id=740
 #EXTINF:-1,Bandamax Vix+
 http://flash.shortgod.com/kickplus/tv1.php?id=769
-#EXTINF:-1,Cine 1
-http://flash.shortgod.com/kickplus/tv1.php?id=771
-#EXTINF:-1,Cine 2
-http://flash.shortgod.com/kickplus/tv1.php?id=772
-#EXTINF:-1,Cine 3
-http://flash.shortgod.com/kickplus/tv1.php?id=773
-#EXTINF:-1,Cine Club
-http://flash.shortgod.com/kickplus/tv1.php?id=775
-#EXTINF:-1,Cine Del Ayer
-http://flash.shortgod.com/kickplus/tv1.php?id=776
 #EXTINF:-1,Canal 13 | OPC 2
 http://flash.shortgod.com/kickplus/tv1.php?id=1126
 #EXTINF:-1,Chilevision
@@ -372,16 +366,6 @@ http://flash.shortgod.com/kickplus/tv1.php?id=2065
 http://flash.shortgod.com/kickplus/tv1.php?id=2066
 #EXTINF:-1,24/7 | Los Simpson ( Temp 4 )
 http://flash.shortgod.com/kickplus/tv1.php?id=2067
-#EXTINF:-1,ARGENTINA HD || TELEFE
-http://flash.shortgod.com/kickplus/tv1.php?id=2165
-#EXTINF:-1,HD| TV PUBLICA
-http://flash.shortgod.com/kickplus/tv1.php?id=2171
-#EXTINF:-1,ARGENTINA HD| TYC SPORTS
-http://flash.shortgod.com/kickplus/tv1.php?id=2172
-#EXTINF:-1,ARGENTINA FHD| CANAL 26
-http://flash.shortgod.com/kickplus/tv1.php?id=2174
-#EXTINF:-1,HD ||| RURAL
-http://flash.shortgod.com/kickplus/tv1.php?id=2175
 #EXTINF:-1,CO: RCN
 http://flash.shortgod.com/kickplus/tv1.php?id=4221
 #EXTINF:-1,CO: RCN Telenovelas HD
@@ -390,46 +374,18 @@ http://flash.shortgod.com/kickplus/tv1.php?id=4222
 http://flash.shortgod.com/kickplus/tv1.php?id=4308
 #EXTINF:-1,UY: VTV
 http://flash.shortgod.com/kickplus/tv1.php?id=4310
-#EXTINF:-1,UY: VTV
-http://flash.shortgod.com/kickplus/tv1.php?id=4311
-#EXTINF:-1,UY: VTV Plus
-http://flash.shortgod.com/kickplus/tv1.php?id=4312
 #EXTINF:-1,UY: Canal 10 SAETA-opc 2
 http://flash.shortgod.com/kickplus/tv1.php?id=4330
-#EXTINF:-1,SP: UY: Directv Sports HD
-http://flash.shortgod.com/kickplus/tv1.php?id=4332
-#EXTINF:-1,SP: UY: VTV SD
-http://flash.shortgod.com/kickplus/tv1.php?id=4333
 #EXTINF:-1,SP: UY: VTV HD
 http://flash.shortgod.com/kickplus/tv1.php?id=4334
 #EXTINF:-1,SP: UY: VTV Plus HD
 http://flash.shortgod.com/kickplus/tv1.php?id=4336
-#EXTINF:-1,||AR.NETFLIX|| ACTION 2 HD
-http://flash.shortgod.com/kickplus/tv1.php?id=4879
-#EXTINF:-1,||AR.NETFLIX|| KIDS HD
-http://flash.shortgod.com/kickplus/tv1.php?id=4880
-#EXTINF:-1,||AR.NETFLIX|| ACTION HD
-http://flash.shortgod.com/kickplus/tv1.php?id=4882
-#EXTINF:-1,||AR.NETFLIX|| COMEDY HD
-http://flash.shortgod.com/kickplus/tv1.php?id=4883
-#EXTINF:-1,||AR.NETFLIX|| DRAMA HD
-http://flash.shortgod.com/kickplus/tv1.php?id=4884
-#EXTINF:-1,|FR| BKNETFLIX 2
-http://flash.shortgod.com/kickplus/tv1.php?id=4887
-#EXTINF:-1,||ES|| TAQUILLA 5
-http://flash.shortgod.com/kickplus/tv1.php?id=4090
-#EXTINF:-1,||ES|| TAQUILLA 8
-http://flash.shortgod.com/kickplus/tv1.php?id=4096
 #EXTINF:-1,BL | Bolivia TV
 http://flash.shortgod.com/kickplus/tv1.php?id=8543
 #EXTINF:-1,BL |  ATB
 http://flash.shortgod.com/kickplus/tv1.php?id=8544
-#EXTINF:-1,BL | Bolivisiï¿½n Paz
-http://flash.shortgod.com/kickplus/tv1.php?id=8545
 #EXTINF:-1,BL | Red Uno HD
 http://flash.shortgod.com/kickplus/tv1.php?id=8546
-#EXTINF:-1,BL | Bolivisiï¿½n HD
-http://flash.shortgod.com/kickplus/tv1.php?id=8547
 #EXTINF:-1,BL | Bolivia Uno
 http://flash.shortgod.com/kickplus/tv1.php?id=8548
 #EXTINF:-1,BL | Red Avenir Internacional
@@ -444,5 +400,4 @@ http://flash.shortgod.com/kickplus/tv1.php?id=8583
 http://flash.shortgod.com/kickplus/tv1.php?id=8587
 #EXTINF:-1,Urban TV | ES
 http://flash.shortgod.com/kickplus/tv1.php?id=8588
-#EXTINF:-1,TN | AR
-https://live-01-01-tn.vodgc.net/TN24/index.m3u8
+
