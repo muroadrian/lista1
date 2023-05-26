@@ -74,30 +74,14 @@ https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/retroplussenal2/playli
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/retroplussenal3/playlist.m3u8
 #EXTINF:-1,DEP HD: ESPN 1 (ARG)
 http://flash.shortgod.com/kickplus/tv1.php?id=16
-#EXTINF:-1,DEP HD: ESPN 2 (ARG)
-http://flash.shortgod.com/kickplus/tv1.php?id=19
 #EXTINF:-1,DEP HD: ESPN 3 (ARG)
 http://flash.shortgod.com/kickplus/tv1.php?id=23
 #EXTINF:-1,DEP HD: ESPN 4 (ARG)
 http://flash.shortgod.com/kickplus/tv1.php?id=26
-#EXTINF:-1,DEP HD: ESPN 4 (SUR)
-http://flash.shortgod.com/kickplus/tv1.php?id=27
 #EXTINF:-1,DEP HD: ESPN DEPORTES
 http://flash.shortgod.com/kickplus/tv1.php?id=28
-#EXTINF:-1,DEP HD: ESPN EXTRA
-http://flash.shortgod.com/kickplus/tv1.php?id=29
 #EXTINF:-1,DEP HD: ESPN PREMIUM ARG
 http://flash.shortgod.com/kickplus/tv1.php?id=30
-#EXTINF:-1,DEP SD: ESPN 2 (ARG)
-http://flash.shortgod.com/kickplus/tv1.php?id=34
-#EXTINF:-1,DEP SD: ESPN 3 (ARG)
-http://flash.shortgod.com/kickplus/tv1.php?id=37
-#EXTINF:-1,DEP SD: ESPN DEPORTES
-http://flash.shortgod.com/kickplus/tv1.php?id=39
-#EXTINF:-1,DEP SD: ESPN EXTRA
-http://flash.shortgod.com/kickplus/tv1.php?id=40
-#EXTINF:-1,US: ESPN 3
-http://flash.shortgod.com/kickplus/tv1.php?id=44
 #EXTINF:-1,DEP HD: FOX SPORTS 1 (ARG)
 http://flash.shortgod.com/kickplus/tv1.php?id=50
 #EXTINF:-1,DEP HD: FOX SPORTS 1 (CHI)
@@ -128,26 +112,6 @@ http://flash.shortgod.com/kickplus/tv1.php?id=70
 http://flash.shortgod.com/kickplus/tv1.php?id=72
 #EXTINF:-1,LIGA ARGENTINA: FOX SPORTS PREMIUM op2
 http://flash.shortgod.com/kickplus/tv1.php?id=73
-#EXTINF:-1,US: FOX SPORTS 1
-http://flash.shortgod.com/kickplus/tv1.php?id=74
-#EXTINF:-1,US: FOX SPORTS 2
-http://flash.shortgod.com/kickplus/tv1.php?id=75
-#EXTINF:-1,STAR+ FHD
-http://flash.shortgod.com/kickplus/tv1.php?id=171
-#EXTINF:-1,STAR+ HD
-http://flash.shortgod.com/kickplus/tv1.php?id=172
-#EXTINF:-1,STAR+ 1 FHD
-http://flash.shortgod.com/kickplus/tv1.php?id=173
-#EXTINF:-1,STAR+ 1 HD
-http://flash.shortgod.com/kickplus/tv1.php?id=174
-#EXTINF:-1,STAR+ 2 FHD
-http://flash.shortgod.com/kickplus/tv1.php?id=175
-#EXTINF:-1,STAR+ 2 HD
-http://flash.shortgod.com/kickplus/tv1.php?id=176
-#EXTINF:-1,STAR+ 3 FHD
-http://flash.shortgod.com/kickplus/tv1.php?id=177
-#EXTINF:-1,STAR+ 3 HD
-http://flash.shortgod.com/kickplus/tv1.php?id=178
 #EXTINF:-1,STUDIO UNIVERSAL FHD
 http://flash.shortgod.com/kickplus/tv1.php?id=220
 #EXTINF:-1,STUDIO UNIVERSAL SD
@@ -156,10 +120,6 @@ http://flash.shortgod.com/kickplus/tv1.php?id=221
 http://flash.shortgod.com/kickplus/tv1.php?id=222
 #EXTINF:-1,UNIVERSAL CHANNEL HD
 http://flash.shortgod.com/kickplus/tv1.php?id=223
-#EXTINF:-1,UNIVERSAL CHANNEL SD
-http://flash.shortgod.com/kickplus/tv1.php?id=225
-#EXTINF:-1,UNIVERSAL CHANNEL SD
-http://flash.shortgod.com/kickplus/tv1.php?id=226
 #EXTINF:-1,UNIVERSAL CINEMA
 http://flash.shortgod.com/kickplus/tv1.php?id=227
 #EXTINF:-1,UNIVERSAL CINEMA
@@ -172,18 +132,12 @@ http://flash.shortgod.com/kickplus/tv1.php?id=230
 http://flash.shortgod.com/kickplus/tv1.php?id=232
 #EXTINF:-1,UNIVERSAL COMEDY
 http://flash.shortgod.com/kickplus/tv1.php?id=233
-#EXTINF:-1,ES: COMEDY CENTRAL
-http://flash.shortgod.com/kickplus/tv1.php?id=371
 #EXTINF:-1,ES: CANAL COCINA
 http://flash.shortgod.com/kickplus/tv1.php?id=372
-#EXTINF:-1,ES: CALLE 13
-http://flash.shortgod.com/kickplus/tv1.php?id=373
 #EXTINF:-1,ES: BOING
 http://flash.shortgod.com/kickplus/tv1.php?id=374
 #EXTINF:-1,ES: AXN WHITE
 http://flash.shortgod.com/kickplus/tv1.php?id=376
-#EXTINF:-1,2M | HBO FAMILY
-http://flash.shortgod.com/kickplus/tv1.php?id=384
 #EXTINF:-1,2M | HBO PLUS
 http://flash.shortgod.com/kickplus/tv1.php?id=385
 #EXTINF:-1,HBO 2 **
@@ -204,38 +158,18 @@ http://flash.shortgod.com/kickplus/tv1.php?id=392
 http://flash.shortgod.com/kickplus/tv1.php?id=393
 #EXTINF:-1,HBO XTREME FHD
 http://flash.shortgod.com/kickplus/tv1.php?id=394
-#EXTINF:-1,HBO NORTE V*
-http://flash.shortgod.com/kickplus/tv1.php?id=395
-#EXTINF:-1,HBO 2 NORTE V*
-http://flash.shortgod.com/kickplus/tv1.php?id=396
 #EXTINF:-1,HBO PLUS HD V*
 http://flash.shortgod.com/kickplus/tv1.php?id=397
 #EXTINF:-1,HBO 2 SUR V*
 http://flash.shortgod.com/kickplus/tv1.php?id=398
 #EXTINF:-1,HBO XTREME MX V*
 http://flash.shortgod.com/kickplus/tv1.php?id=399
-#EXTINF:-1,HBO FAMILY HD V*
-http://flash.shortgod.com/kickplus/tv1.php?id=400
 #EXTINF:-1,HBO POP V*
 http://flash.shortgod.com/kickplus/tv1.php?id=402
 #EXTINF:-1,DLAT | TUDNXTRA 11
 http://flash.shortgod.com/kickplus/tv1.php?id=429
-#EXTINF:-1,PPV - CINEMA 01 FHD (ES)
-http://flash.shortgod.com/kickplus/tv1.php?id=586
-#EXTINF:-1,PPV - CINEMA 05 FHD (ES).
-http://flash.shortgod.com/kickplus/tv1.php?id=587
-#EXTINF:-1,PPV - CINEMA 06 FHD (ES).
-http://flash.shortgod.com/kickplus/tv1.php?id=588
-#EXTINF:-1,PPV - CINEMA 11 FHD (ES).
-http://flash.shortgod.com/kickplus/tv1.php?id=593
-#EXTINF:-1,PPV - CINEMA 12 FHD (ES).
-http://flash.shortgod.com/kickplus/tv1.php?id=594
-#EXTINF:-1,PPV - CINEMA 13 FHD (ES).
-http://flash.shortgod.com/kickplus/tv1.php?id=595
 #EXTINF:-1,PPV - CINEMA 14 FHD (ES).
 http://flash.shortgod.com/kickplus/tv1.php?id=596
-#EXTINF:-1,PPV - CINEMA 15 FHD (ES).
-http://flash.shortgod.com/kickplus/tv1.php?id=597
 #EXTINF:-1,PPV - CINEMA 16 FHD (ES).
 http://flash.shortgod.com/kickplus/tv1.php?id=598
 #EXTINF:-1,CUL | ANIMAL PLANET
