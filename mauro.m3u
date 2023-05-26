@@ -192,42 +192,22 @@ http://flash.shortgod.com/kickplus/tv1.php?id=617
 http://flash.shortgod.com/kickplus/tv1.php?id=619
 #EXTINF:-1,DLAT | TNT SPORTS ARG
 http://flash.shortgod.com/kickplus/tv1.php?id=620
-#EXTINF:-1,DLAT | TNT SPORTS ARG
-http://flash.shortgod.com/kickplus/tv1.php?id=621
-#EXTINF:-1,DLAT | TNT SPORTS 2
-http://flash.shortgod.com/kickplus/tv1.php?id=622
-#EXTINF:-1,DLAT | TNT SPORTS 3 *dp
-http://flash.shortgod.com/kickplus/tv1.php?id=623
-#EXTINF:-1,DLAT | TNT SPORTS CHILE
-http://flash.shortgod.com/kickplus/tv1.php?id=624
 #EXTINF:-1,01 | CANAL UNO | HD
 http://flash.shortgod.com/kickplus/tv1.php?id=650
 #EXTINF:-1,02 | CARACOL | SD
 http://flash.shortgod.com/kickplus/tv1.php?id=651
 #EXTINF:-1,03 | CARACOL ENC | HD
 http://flash.shortgod.com/kickplus/tv1.php?id=652
-#EXTINF:-1,06 | RCN INT | HD
-http://flash.shortgod.com/kickplus/tv1.php?id=655
-#EXTINF:-1,19 | CARACOL INT  | HD
-http://flash.shortgod.com/kickplus/tv1.php?id=668
 #EXTINF:-1,25 | CARACOL NACIONAL | HD
 http://flash.shortgod.com/kickplus/tv1.php?id=673
 #EXTINF:-1,28 | RCN | FHD
 http://flash.shortgod.com/kickplus/tv1.php?id=674
-#EXTINF:-1,31 | RCN | HD
-http://flash.shortgod.com/kickplus/tv1.php?id=677
 #EXTINF:-1,01 | A&E EC | SD
 http://flash.shortgod.com/kickplus/tv1.php?id=678
-#EXTINF:-1,02 | A&E HD | ENC
-http://flash.shortgod.com/kickplus/tv1.php?id=679
-#EXTINF:-1,03 | A&E | FHD
-http://flash.shortgod.com/kickplus/tv1.php?id=680
 #EXTINF:-1,05 | AMC | SD
 http://flash.shortgod.com/kickplus/tv1.php?id=682
 #EXTINF:-1,06 | AMC | FHD Dual
 http://flash.shortgod.com/kickplus/tv1.php?id=683
-#EXTINF:-1,07 | AMC | HD
-http://flash.shortgod.com/kickplus/tv1.php?id=685
 #EXTINF:-1,17 | CANAL WARNER | SD
 http://flash.shortgod.com/kickplus/tv1.php?id=686
 #EXTINF:-1,18 | CANAL WARNER | FHD
@@ -236,20 +216,12 @@ http://flash.shortgod.com/kickplus/tv1.php?id=687
 http://flash.shortgod.com/kickplus/tv1.php?id=688
 #EXTINF:-1,20 | SPACE | FHD
 http://flash.shortgod.com/kickplus/tv1.php?id=689
-#EXTINF:-1,21 | SPACE | FHD DUAL
-http://flash.shortgod.com/kickplus/tv1.php?id=690
-#EXTINF:-1,22 | PARAMOUNT NETWORK | SD
-http://flash.shortgod.com/kickplus/tv1.php?id=691
 #EXTINF:-1,23 | PARAMOUNT | FHD ENC
 http://flash.shortgod.com/kickplus/tv1.php?id=692
 #EXTINF:-1,24 | PARAMOUNT NETWORK | FHD
 http://flash.shortgod.com/kickplus/tv1.php?id=693
 #EXTINF:-1,28 | CINEMAX | SD
 http://flash.shortgod.com/kickplus/tv1.php?id=697
-#EXTINF:-1,30 | CINEMAX | FHD
-http://flash.shortgod.com/kickplus/tv1.php?id=699
-#EXTINF:-1,31 | CINEMAX | FHD SAT
-http://flash.shortgod.com/kickplus/tv1.php?id=700
 #EXTINF:-1,33 | CINECANAL | SD
 http://flash.shortgod.com/kickplus/tv1.php?id=702
 #EXTINF:-1,34 | CINECANAL | HQ
@@ -258,10 +230,6 @@ http://flash.shortgod.com/kickplus/tv1.php?id=703
 http://flash.shortgod.com/kickplus/tv1.php?id=704
 #EXTINF:-1,37 | TBS | SD
 http://flash.shortgod.com/kickplus/tv1.php?id=706
-#EXTINF:-1,38 | CINE LATINO | SD
-http://flash.shortgod.com/kickplus/tv1.php?id=707
-#EXTINF:-1,39 | CLARO CINEMA | SD
-http://flash.shortgod.com/kickplus/tv1.php?id=708
 #EXTINF:-1,42 | TNT SERIES | FHD
 http://flash.shortgod.com/kickplus/tv1.php?id=711
 #EXTINF:-1,43 | TNT SERIES | FHD DUAL
@@ -274,8 +242,6 @@ http://flash.shortgod.com/kickplus/tv1.php?id=714
 http://flash.shortgod.com/kickplus/tv1.php?id=715
 #EXTINF:-1,47 | GOLDEN PREMIER | FHD
 http://flash.shortgod.com/kickplus/tv1.php?id=716
-#EXTINF:-1,48 | GOLDEN | SD
-http://flash.shortgod.com/kickplus/tv1.php?id=717
 #EXTINF:-1,49 | TNT | SD
 http://flash.shortgod.com/kickplus/tv1.php?id=718
 #EXTINF:-1,50 | TNT | HD
@@ -284,14 +250,8 @@ http://flash.shortgod.com/kickplus/tv1.php?id=719
 http://flash.shortgod.com/kickplus/tv1.php?id=720
 #EXTINF:-1,53 | DE PELICULA + | HQ SAT
 http://flash.shortgod.com/kickplus/tv1.php?id=722
-#EXTINF:-1,54 | CANAL SONY | SD
-http://flash.shortgod.com/kickplus/tv1.php?id=723
 #EXTINF:-1,56 | CANAL SONY | FHD
 http://flash.shortgod.com/kickplus/tv1.php?id=725
-#EXTINF:-1,58 | FX | HD ENC
-http://flash.shortgod.com/kickplus/tv1.php?id=727
-#EXTINF:-1,59 | FX | FHD SAT
-http://flash.shortgod.com/kickplus/tv1.php?id=728
 #EXTINF:-1,60 | FX | FHD
 http://flash.shortgod.com/kickplus/tv1.php?id=729
 #EXTINF:-1,62 | AXN | SD
@@ -306,12 +266,8 @@ http://flash.shortgod.com/kickplus/tv1.php?id=734
 http://flash.shortgod.com/kickplus/tv1.php?id=735
 #EXTINF:-1,67 | SYFY | SD
 http://flash.shortgod.com/kickplus/tv1.php?id=736
-#EXTINF:-1,68 | SYFY | HD SAT
-http://flash.shortgod.com/kickplus/tv1.php?id=737
 #EXTINF:-1,69 | SYFY | FHD
 http://flash.shortgod.com/kickplus/tv1.php?id=738
-#EXTINF:-1,70 | SYFY | FHD
-http://flash.shortgod.com/kickplus/tv1.php?id=739
 #EXTINF:-1,71 | DHE | HD
 http://flash.shortgod.com/kickplus/tv1.php?id=740
 #EXTINF:-1,Bandamax Vix+
@@ -328,8 +284,6 @@ http://flash.shortgod.com/kickplus/tv1.php?id=1562
 http://flash.shortgod.com/kickplus/tv1.php?id=1563
 #EXTINF:-1,SD | HBO PLUS
 http://flash.shortgod.com/kickplus/tv1.php?id=1564
-#EXTINF:-1,SD | UNIVERSAL CRIMEN
-http://flash.shortgod.com/kickplus/tv1.php?id=1565
 #EXTINF:-1,SD | Discovery ID
 http://flash.shortgod.com/kickplus/tv1.php?id=1567
 #EXTINF:-1,SD | Discovery Science
@@ -350,28 +304,18 @@ http://flash.shortgod.com/kickplus/tv1.php?id=2066
 http://flash.shortgod.com/kickplus/tv1.php?id=2067
 #EXTINF:-1,CO: RCN
 http://flash.shortgod.com/kickplus/tv1.php?id=4221
-#EXTINF:-1,CO: RCN Telenovelas HD
-http://flash.shortgod.com/kickplus/tv1.php?id=4222
 #EXTINF:-1,UY: Canal 10 SAETA
 http://flash.shortgod.com/kickplus/tv1.php?id=4308
-#EXTINF:-1,UY: VTV
-http://flash.shortgod.com/kickplus/tv1.php?id=4310
 #EXTINF:-1,UY: Canal 10 SAETA-opc 2
 http://flash.shortgod.com/kickplus/tv1.php?id=4330
 #EXTINF:-1,SP: UY: VTV HD
 http://flash.shortgod.com/kickplus/tv1.php?id=4334
 #EXTINF:-1,SP: UY: VTV Plus HD
 http://flash.shortgod.com/kickplus/tv1.php?id=4336
-#EXTINF:-1,BL | Bolivia TV
-http://flash.shortgod.com/kickplus/tv1.php?id=8543
-#EXTINF:-1,BL |  ATB
-http://flash.shortgod.com/kickplus/tv1.php?id=8544
 #EXTINF:-1,BL | Red Uno HD
 http://flash.shortgod.com/kickplus/tv1.php?id=8546
 #EXTINF:-1,BL | Bolivia Uno
 http://flash.shortgod.com/kickplus/tv1.php?id=8548
-#EXTINF:-1,BL | Red Avenir Internacional
-http://flash.shortgod.com/kickplus/tv1.php?id=8549
 #EXTINF:-1,Canal i | VE
 http://flash.shortgod.com/kickplus/tv1.php?id=8581
 #EXTINF:-1,Panavision * | VE
