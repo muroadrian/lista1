@@ -55,6 +55,8 @@ https://ythls.onrender.com/channel/UC64ZNqX0FQHabP8iIkmnR3A.m3u8
 https://ythls.onrender.com/channel/UCiaePeoCqpU8hBHiNrgkzrA.m3u8
 #EXTINF:-1 , TIERRAMIA TV
 http://playhispano.org:8080/userlw/led5120/86618
+#EXTINF:-1 , TELEMAX
+http://live-edge01.telecentro.net.ar/live/tlxhd-720/playlist.m3u8
 #EXTINF:-1, TELEARUBA
 https://backend-server-dot-telearuba-app.appspot.com/media/livestream13/playlist.m3u8
 #EXTINF:-1, 24 HORAS
@@ -130,11 +132,11 @@ http://playhispano.org:8080/userlw/led5120/149650
 #EXTINF:-1 , A&E HD
 http://playhispano.org:8080/userlw/led5120/149652
 #EXTINF:-1 , EL GOURMET
-http://playhispano.org:8080/userlw/led5120/192336
+ttp://playhispano.org:8080/userlw/led5120/124477
 #EXTINF:-1 , TBS HD
 http://playhispano.org:8080/userlw/led5120/149653
-#EXTINF:-1 tvg-id="" tvg-name="PREMIUN| AMC HD" tvg-logo="http://iptvglobal.site:25461/images/503cdbf879614b704e79e70ec54a55f7.png" group-title="TV | ARGENTINA",PREMIUN| AMC HD
+#EXTINF:-1 , AMC HD
 http://playhispano.org:8080/userlw/led5120/149654
-#EXTINF:-1 tvg-id="" tvg-name="PREMIUN| SYFY HD" tvg-logo="http://iptvglobal.site:25461/images/a156fe16fad2f066fd0c090caf4b89b7.png" group-title="TV | ARGENTINA",PREMIUN| SYFY HD
+#EXTINF:-1 , SYFY HD
 http://playhispano.org:8080/userlw/led5120/149655
 
