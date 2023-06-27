@@ -1,6 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zOiOeqG.png" group-title="Gratis",shortgod.com
-http://shortgod.com/canaldisponible.mp4
+
 
 #EXTINF:-1,AMERICA Tucuman
 https://ythls.onrender.com/channel/UCZ8sgVyD7HqDor8ujB-TZpg.m3u8
@@ -8,6 +7,8 @@ https://ythls.onrender.com/channel/UCZ8sgVyD7HqDor8ujB-TZpg.m3u8
 http://playhispano.org:8080/userlw/led5120/86604
 #EXTINF:-1,TELEFE
 http://playhispano.org:8080/userlw/led5120/86650
+#EXTINF:-1 , TELEFE HD
+http://playhispano.org:8080/userlw/led5120/149633
 #EXTINF:-1,EL TRECE
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 #EXTINF:-1, Canal 9
@@ -17,7 +18,7 @@ https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_so
 #EXTINF:-1, A24
 https://ythls.onrender.com/channel/UCR9120YBAqMfntqgRTKmkjQ.m3u8
 #EXTINF:-1, LN+
-https://ythls.onrender.com/channel/UCba3hpU7EFBSk817y9qZkiA.m3u8
+https://ythls.onrender.com/channel/UCba3hpU7EFBSk817y9qZkiA.m3u8 
 #EXTINF:-1, TN
 https://live-01-01-tn.vodgc.net/TN24/index.m3u8
 #EXTINF:-1, CRONICA
@@ -27,10 +28,16 @@ https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 #EXTINF:-1, TYC SPORTS
 http://playhispano.org:8080/userlw/led5120/86628
 http://00322.xyz:8000/rances123/9IFBBCRBIX/4945
+#EXTINF:-1, ACEQUIA TV
+https://ythls.onrender.com/channel/UCrYFBjFOP_zlFzsif9XDhgw.m3u8
 #EXTINF:-1, CANAL 26
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0049
+http://200.115.193.177/live/26hd-720/playlist.m3u8
+#EXTINF:-1, CNAR NOTICIAS
+https://stmv1.cnarlatam.com/cnarnoticias/cnarnoticias/playlist.m3u8
+#EXTINF:-1, GALICIA TV
+https://america-crtvg.flumotion.com/crtvg/america_high/chunks.m3u8
 #EXTINF:-1, RURAL
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0014
+https://cda2.alsolnet.com/elrural/live/playlist.m3u8
 #EXTINF:-1,Encuentro
 https://538d0bde28ccf.streamlock.net/live-cont.ar/encuentro/.m3u8
 #EXTINF:-1, VIAJAR
@@ -57,8 +64,12 @@ https://ythls.onrender.com/channel/UCiaePeoCqpU8hBHiNrgkzrA.m3u8
 http://playhispano.org:8080/userlw/led5120/86618
 #EXTINF:-1 , TELEMAX
 http://live-edge01.telecentro.net.ar/live/tlxhd-720/playlist.m3u8
+#EXTINF:-1 , CNAR DEPORTES
+https://stmv1.cnarlatam.com/cnardeportes2/cnardeportes2/playlist.m3u8
 #EXTINF:-1, TELEARUBA
 https://backend-server-dot-telearuba-app.appspot.com/media/livestream13/playlist.m3u8
+#EXTINF:-1, MOLINA TV
+http://live.mundogo.cl/mundo/Molinatv/index.m3u8
 #EXTINF:-1, 24 HORAS
 https://ythls.onrender.com/channel/UCTXNz3gjAypWp3EhlIATEJQ.m3u8
 #EXTINF:-1,Canal 13 CH
@@ -79,8 +90,6 @@ https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
 https://unlimited1-cl-isp.dps.live/lared/lared.smil/playlist.m3u8
 #EXTINF:-1,TV+
 http://playhispano.org:8080/userlw/led5120/86593
-#EXTINF:-1, MOLINA TV
-http://live.mundogo.cl/mundo/Molinatv/index.m3u8
 #EXTINF:-1,RETROPLUS 1
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/retroplustv/playlist.m3u8
 #EXTINF:-1,RETROPLUS 2
@@ -95,14 +104,14 @@ http://playhispano.org:8080/userlw/led5120/149630
 http://playhispano.org:8080/userlw/led5120/149631
 #EXTINF:-1 , ESPN HD 2
 http://playhispano.org:8080/userlw/led5120/149632
-#EXTINF:-1 , TELEFE HD
-http://playhispano.org:8080/userlw/led5120/149633
 #EXTINF:-1 , ESPN HD
 http://playhispano.org:8080/userlw/led5120/149634
 #EXTINF:-1 , FOX SPORTS 3 HD
 http://playhispano.org:8080/userlw/led5120/149635
 #EXTINF:-1 ,| FOX SPORTS 2 HD
 http://playhispano.org:8080/userlw/led5120/149636
+#EXTINF:-1 ,CINE.AR
+https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
 #EXTINF:-1 , HBO HD
 http://playhispano.org:8080/userlw/led5120/149637
 #EXTINF:-1 , HBO PLUS HD
@@ -119,8 +128,6 @@ http://playhispano.org:8080/userlw/led5120/149643
 http://playhispano.org:8080/userlw/led5120/149644
 #EXTINF:-1 , FX HD
 http://playhispano.org:8080/userlw/led5120/149645
-#EXTINF:-1 , FOX HD
-http://playhispano.org:8080/userlw/led5120/149646
 #EXTINF:-1 , SONY HD
 http://playhispano.org:8080/userlw/led5120/149647
 #EXTINF:-1 ,| WARNER HD
@@ -131,12 +138,12 @@ http://playhispano.org:8080/userlw/led5120/149649
 http://playhispano.org:8080/userlw/led5120/149650
 #EXTINF:-1 , A&E HD
 http://playhispano.org:8080/userlw/led5120/149652
-#EXTINF:-1 , EL GOURMET
-ttp://playhispano.org:8080/userlw/led5120/124477
 #EXTINF:-1 , TBS HD
 http://playhispano.org:8080/userlw/led5120/149653
 #EXTINF:-1 , AMC HD
 http://playhispano.org:8080/userlw/led5120/149654
 #EXTINF:-1 , SYFY HD
 http://playhispano.org:8080/userlw/led5120/149655
+#EXTINF:-1 , CM
+http://g5.vxral-slo.transport.edge-access.net/a09/ngrp:CM_CanaldelaMusica-100044_all/Playlist.m3u8
 
