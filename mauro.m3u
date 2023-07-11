@@ -1,32 +1,48 @@
-#EXTM3U
+#EXTINF:-1,AMERICA Tucuman
+https://ythls.onrender.com/channel/UCZ8sgVyD7HqDor8ujB-TZpg.m3u8
+#EXTINF:-1,AMERICA 
+http://playhispano.org:8080/userlw/led5120/86604
+#EXTINF:-1,TELEFE
+http://playhispano.org:8080/userlw/led5120/86650
+#EXTINF:-1 , TELEFE HD
+http://playhispano.org:8080/userlw/led5120/149633
+#EXTINF:-1,EL TRECE
+https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
+#EXTINF:-1, Canal 9
+https://octubre-live.cdn.vustreams.com/live/channel09/live.isml/live.m3u8
+#EXTINF:-1, TV PUBLICA
+https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
+#EXTINF:-1, A24
+https://ythls.onrender.com/channel/UCR9120YBAqMfntqgRTKmkjQ.m3u8
+#EXTINF:-1, LN+
+https://ythls.onrender.com/channel/UCba3hpU7EFBSk817y9qZkiA.m3u8 
+#EXTINF:-1, TN
+https://live-01-01-tn.vodgc.net/TN24/index.m3u8
+#EXTINF:-1, CRONICA
+https://g1.mc-hor.transport.edge-access.net/a10/ngrp:cronicatv_video1-100044_all/Playlist.m3u8
 #EXTINF:-1 tvg-id="13MaxTelevision.ar" tvg-logo="https://i.imgur.com/QvF4l2t.png" group-title="General",13Max Television
 http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
-#EXTINF:-1 tvg-id="247CanaldeNoticias.ar" tvg-logo="https://i.imgur.com/4hDCB1M.png" group-title="News",24/7 Canal de Noticias
-https://59c5c86e10038.streamlock.net/6605140/6605140/playlist.m3u8
 #EXTINF:-1 tvg-id="5TVArgentina.ar" tvg-logo="https://i.imgur.com/mSn7ACs.png" group-title="",5TV Argentina
 http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
-#EXTINF:-1 tvg-id="A24.ar" tvg-logo="https://i.imgur.com/LnXQkIU.png" group-title="News" user-agent="iPhone",A24
-#EXTVLCOPT:http-user-agent=iPhone
-https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056.m3u8
 #EXTINF:-1 tvg-id="AllSports.br" tvg-logo="https://i.imgur.com/wULpnYR.png" group-title="Sports",All Sports
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
 #EXTINF:-1 tvg-id="AlphaChannel.br" tvg-logo="https://i.imgur.com/c1QqslA.png" group-title="General",Alpha Channel
 https://5b01a3d32b65c.streamlock.net:1936/tvalpha/tvalpha/playlist.m3u8
 #EXTINF:-1 tvg-id="AmazonSat.br" tvg-logo="https://i.imgur.com/7rjCS5i.png" group-title="",Amazon Sat
 https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
-#EXTINF:-1 tvg-id="AmericaTV.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png/512px-Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="General" user-agent="iPhone",America TV
-#EXTVLCOPT:http-user-agent=iPhone
-https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8
-#EXTINF:-1 tvg-id="ArgentinisimaSatelital.ar" tvg-logo="https://i.imgur.com/xFgJawa.png" group-title="",Argentinisima Satelital
-https://stream1.sersat.com/hls/argentinisima.m3u8
-#EXTINF:-1 tvg-id="Atrescine.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Atrescine_logo.svg/512px-Atrescine_logo.svg.png" group-title="Movies",Atrescine
-https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-index.m3u8
 #EXTINF:-1 tvg-id="AVCHD.ar" tvg-logo="https://i.imgur.com/8CT4y1O.png" group-title="",AVC HD
 https://ssh101.bozztv.com/ssh101/streamavc/playlist.m3u8
 #EXTINF:-1 tvg-id="AventurasTV.ar" tvg-logo="https://i.imgur.com/qt6g1wi.png" group-title="Entertainment",Aventuras TV
 https://stmv1.cnarlatam.com/mundotv/mundotv/playlist.m3u8
 #EXTINF:-1 tvg-id="BayresTV.ar" tvg-logo="https://i.imgur.com/9FDqljV.png" group-title="",Bayres TV
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
+#EXTINF:-1, TYC SPORTS
+http://playhispano.org:8080/userlw/led5120/86628
+#EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/a2e0462576670a3042db753d3eb083d6.gif", TYC SPORTS
+http://00322.xyz:8000/rances123/9IFBBCRBIX/4945
+#EXTINF:-1, ACEQUIA TV
+https://ythls.onrender.com/channel/UCrYFBjFOP_zlFzsif9XDhgw.m3u8
+#EXTINF:-1, CANAL 26
 #EXTINF:-1 tvg-id="BeatsRadio.ar" tvg-logo="https://i.imgur.com/zkNUO5p.png" group-title="Music",Beats Radio
 https://videostream.shockmedia.com.ar:19360/beatsradio/beatsradio.m3u8
 #EXTINF:-1 tvg-id="BoliviaTV.bo" tvg-logo="https://i.imgur.com/Jj2KB5H.png" group-title="General",Bolivia TV
@@ -54,18 +70,33 @@ https://vivo.solumedia.com:19360/dadaproductora/dadaproductora.m3u8
 https://ythls.onrender.com/channel/UCuJvDPQIaUhvdHiH275WjNA.m3u8
 #EXTINF:-1 tvg-id="Canal26.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/512px-Canal_26_logo_%282022%29.svg.png" group-title="News",Canal 26
 http://200.115.193.177/live/26hd-720/playlist.m3u8
+#EXTINF:-1, CNAR NOTICIAS
+https://stmv1.cnarlatam.com/cnarnoticias/cnarnoticias/playlist.m3u8
+#EXTINF:-1, GALICIA TV
+https://america-crtvg.flumotion.com/crtvg/america_high/chunks.m3u8
+#EXTINF:-1, RURAL
+https://cda2.alsolnet.com/elrural/live/playlist.m3u8
+#EXTINF:-1,Encuentro
+https://538d0bde28ccf.streamlock.net/live-cont.ar/encuentro/.m3u8
+#EXTINF:-1, VIAJAR
+https://stmv5.livecastv.com/manualtman/manualtman/playlist.m3u8
+#EXTINF:-1 Canal 2 Jujuy
 #EXTINF:-1 tvg-id="Canal2Jujuy.ar" tvg-logo="https://i.imgur.com/q0FyrAv.png" group-title="",Canal 2 Jujuy
 https://api.new.livestream.com/accounts/679322/events/3782013/live.m3u8
+#EXTINF:-1, Canal 3 Pinamar
 #EXTINF:-1 tvg-id="Canal2Misiones.ar" tvg-logo="https://i.imgur.com/YqTNXDf.png" group-title="",Canal 2 Misiones
 https://nd106.republicaservers.com:4433/hls/canal2misioness/index.m3u8
 #EXTINF:-1 tvg-id="Canal3Pinamar.ar" tvg-logo="https://i.imgur.com/IABFaH1.png" group-title="",Canal 3 Pinamar
 https://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8
+#EXTINF:-1, Canal 4 Jujuy
 #EXTINF:-1 tvg-id="Canal4Jujuy.ar" tvg-logo="https://i.imgur.com/qB6I274.png" group-title="",Canal 4 Jujuy
 http://190.52.32.13:1935/canal4/smil:manifest.smil/playlist.m3u8
+#EXTINF:-1, Canal 6 Moreno
 #EXTINF:-1 tvg-id="Canal6MardePlata.ar" tvg-logo="https://i.imgur.com/fNaIrvV.png" group-title="",Canal 6 Mar de Plata
 https://panel.dattalive.com/8166/8166/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal6Moreno.ar" tvg-logo="https://i.imgur.com/TefE4HC.png" group-title="",Canal 6 Moreno
 https://stream.arcast.com.ar/canal6moreno/canal6moreno/playlist.m3u8
+#EXTINF:-1, CincoTV
 #EXTINF:-1 tvg-id="Canal79LaCosta.ar" tvg-logo="https://i.imgur.com/HYuSqJy.png" group-title="",Canal 79 La Costa
 https://streamconex.com:1936/lacosta/lacosta/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal7Jujuy.ar" tvg-logo="https://i.imgur.com/K0jk8p4.png" group-title="",Canal 7 Jujuy
@@ -91,13 +122,109 @@ https://stream.arcast.live/canalu/canalu/playlist.m3u8
 https://5c483b9d1019c.streamlock.net/8054/8054/playlist.m3u8
 #EXTINF:-1 tvg-id="CincoTV.ar" tvg-logo="https://i.imgur.com/p9aaBKg.png" group-title="",Cinco TV
 https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8
+#EXTINF:-1, Canal 8 MDP
+https://stream.arcast.com.ar/c8mdp/ngrp:c8mdp_all/playlist.m3u8
+#EXTINF:-1, Canal 11 De La Costa
+https://vivo.solumedia.com:19360/dadaproductora/dadaproductora.m3u8
+#EXTINF:-1, El 7 MDZ
+https://ythls.onrender.com/channel/UC64ZNqX0FQHabP8iIkmnR3A.m3u8
+#EXTINF:-1,EL DOCE
+https://ythls.onrender.com/channel/UCiaePeoCqpU8hBHiNrgkzrA.m3u8
+#EXTINF:-1 , TIERRAMIA TV
+http://playhispano.org:8080/userlw/led5120/86618
+#EXTINF:-1 , TELEMAX
+http://live-edge01.telecentro.net.ar/live/tlxhd-720/playlist.m3u8
+#EXTINF:-1 , CNAR DEPORTES
+https://stmv1.cnarlatam.com/cnardeportes2/cnardeportes2/playlist.m3u8
+#EXTINF:-1 , ARGENTINISIMA
+https://stream1.sersat.com/hls/argentinisima.m3u8
+#EXTINF:-1, TELEARUBA
+https://backend-server-dot-telearuba-app.appspot.com/media/livestream13/playlist.m3u8
+#EXTINF:-1, CGTN
+https://livees.cgtn.com/1000e/prog_index.m3u8
+#EXTINF:-1, 24 HORAS
+https://ythls.onrender.com/channel/UCTXNz3gjAypWp3EhlIATEJQ.m3u8
+#EXTINF:-1,Canal 13 CH
+http://playhispano.org:8080/userlw/led5120/86575
+#EXTINF:-1,Chilevision
+http://playhispano.org:8080/userlw/led5120/129439
+#EXTINF:-1,CHV NOTICIAS
+https://ythls.onrender.com/channel/UCRsUoZYC1ULUspipMRnMhwg.m3u8
+#EXTINF:-1,CNN Chile
+http://playhispano.org:8080/userlw/led5120/129441
+#EXTINF:-1,Megavison
+http://playhispano.org:8080/userlw/led5120/86572
+#EXTINF:-1, TVN
+http://playhispano.org:8080/userlw/led5120/129436
+#EXTINF:-1,TV CHILE
+https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
+#EXTINF:-1,LA RED
+https://unlimited1-cl-isp.dps.live/lared/lared.smil/playlist.m3u8
+#EXTINF:-1,TV+
+http://playhispano.org:8080/userlw/led5120/86593
+#EXTINF:-1,RETROPLUS 1
+https://59f1cbe63db89.streamlock.net:1443/retroplustv/retroplustv/playlist.m3u8
+#EXTINF:-1,RETROPLUS 2
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/retroplussenal2/playlist.m3u8
+#EXTINF:-1,RETROPLUS 3
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/retroplussenal3/playlist.m3u8
+#EXTINF:-1 , TNT SPORTS HD
+http://playhispano.org:8080/userlw/led5120/149627
+#EXTINF:-1,| ESPN 2 HD
+http://playhispano.org:8080/userlw/led5120/149630
+#EXTINF:-1 , ESPN_HD
+http://playhispano.org:8080/userlw/led5120/149631
+#EXTINF:-1 , ESPN HD 2
+http://playhispano.org:8080/userlw/led5120/149632
+#EXTINF:-1 , ESPN HD
+http://playhispano.org:8080/userlw/led5120/149634
+#EXTINF:-1 , FOX SPORTS 3 HD
+http://playhispano.org:8080/userlw/led5120/149635
+#EXTINF:-1 ,| FOX SPORTS 2 HD
+http://playhispano.org:8080/userlw/led5120/149636
+#EXTINF:-1 ,CINE.AR
 #EXTINF:-1 tvg-id="CineAr.ar" tvg-logo="https://i.imgur.com/Iozv4tT.png" group-title="Movies",Cine.Ar
 https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
+#EXTINF:-1 , HBO HD
+http://playhispano.org:8080/userlw/led5120/149637
+#EXTINF:-1 , HBO PLUS HD
+http://playhispano.org:8080/userlw/led5120/149638
+#EXTINF:-1 , HBO FAMILY HD
+http://playhispano.org:8080/userlw/led5120/149640
+#EXTINF:-1 ,| HBO SIGNATURE HD
+http://playhispano.org:8080/userlw/led5120/149641
+#EXTINF:-1, CINEMAX HD
+http://playhispano.org:8080/userlw/led5120/149642
+#EXTINF:-1 , SPACE HD
+http://playhispano.org:8080/userlw/led5120/149643
+#EXTINF:-1, CINECANAL HD
+http://playhispano.org:8080/userlw/led5120/149644
+#EXTINF:-1 , FX HD
+http://playhispano.org:8080/userlw/led5120/149645
+#EXTINF:-1 , SONY HD
+http://playhispano.org:8080/userlw/led5120/149647
+#EXTINF:-1 ,| WARNER HD
+http://playhispano.org:8080/userlw/led5120/149648
+#EXTINF:-1 ,| UNIVERSAL CHANNEL HD
+http://playhispano.org:8080/userlw/led5120/149649
+#EXTINF:-1, AXN HD
+http://playhispano.org:8080/userlw/led5120/149650
+#EXTINF:-1 , A&E HD
+http://playhispano.org:8080/userlw/led5120/149652
+#EXTINF:-1 , TBS HD
+http://playhispano.org:8080/userlw/led5120/149653
+#EXTINF:-1 , AMC HD
+http://playhispano.org:8080/userlw/led5120/149654
+#EXTINF:-1 , SYFY HD
+http://playhispano.org:8080/userlw/led5120/149655
+#EXTINF:-1 , CM
 #EXTINF:-1 tvg-id="CiudadMagazine.ar" tvg-logo="https://i.imgur.com/V1xZV72.png" group-title="",Ciudad Magazine
 https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
 #EXTINF:-1 tvg-id="CMElCanaldelaMusica.ar" tvg-logo="https://i.imgur.com/gwpETyS.png" group-title="Music" user-agent="iPhone",CM El Canal de la Musica
 #EXTVLCOPT:http-user-agent=iPhone
 http://g5.vxral-slo.transport.edge-access.net/a09/ngrp:CM_CanaldelaMusica-100044_all/Playlist.m3u8
+#EXTINF:-1 , no funciona arg1
+http://189.216.247.113/Content/HLS/Live/Channel(MTV_Live_HD)/index.m3u8
 #EXTINF:-1 tvg-id="CronicaTV.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Cr%C3%B3nica_TV_logotipo_%282008-2015%29.png" group-title="" user-agent="iPhone",Cronica TV
 #EXTVLCOPT:http-user-agent=iPhone
 https://g1.mc-hor.transport.edge-access.net/a10/ngrp:cronicatv_video1-100044_all/Playlist.m3u8
